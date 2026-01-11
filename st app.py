@@ -7,7 +7,7 @@ import tensorflow as tf
 
 # X-ray inspired color palette (light, clinical, blue/cyan/white)
 CLR_BG = "#2E5897"         # X-ray film white
-CLR_CARD = "#000000"       # Soft blue card
+CLR_CARD = "#ffffff"       # Soft blue card
 CLR_ACCENT = "#00B4D8"     # X-ray cyan
 CLR_ACCENT2 = "#48CAE4"    # Lighter cyan
 CLR_TEXT = "#FDFDFD"       # Deep gray text
